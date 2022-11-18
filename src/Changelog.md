@@ -2,6 +2,11 @@
 
 List of changes made to the EncryptedList database.
 
+- _2022-11-18_ - Change made:
+
+  - Update the logo of 1 product:
+    - **Scrut.ch**
+
 - _2022-10-24_ - Changes made:
 
   - Add 1 product to the Watchlist:
@@ -9,7 +14,7 @@ List of changes made to the EncryptedList database.
     - **Beepo**
 
   - Add 1 product to the ExcludedList:
-  
+
     - **Encrypt.to**
 
 - _2022-10-08_ - Changes made:
