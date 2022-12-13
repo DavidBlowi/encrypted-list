@@ -2,6 +2,32 @@
 
 List of changes made to the EncryptedList database.
 
+- 2022-12-13\_ - Changes made:
+
+  - Add xxx products to the Main list:
+
+    - **AXchat**
+    - **AXconnect**
+    - **AXIA Capital Bank**
+    - **AXIATel**
+    - **AXpress**
+    - **Filen**
+    - **Infisical**
+    - **Ready**
+    - **Skiff Calendar**
+    - **Tiro Notes**
+
+  - Update the logos of 3 products:
+
+    - **Skiff Drive**
+    - **Skiff Mail**
+    - **Skiff Pages**
+
+  - Updated product details for:
+    - **Google Duo**
+      - Merged and renamed to **Google Meet**
+      - Logo updated
+
 - _2022-11-18_ - Change made:
 
   - Update the logo of 1 product:

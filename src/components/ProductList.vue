@@ -48,8 +48,8 @@
 			</app-button>
 		</div>
 		<div class="filter-list">
-			<!-- Message UI -->
-			<!-- <div class="message"></div> -->
+			<!-- Message UI: Support Me -->
+			<!-- <a class="message"></a> -->
 			<div class="product-filters">
 				<div class="headers">
 					<h4>Tags</h4>
