@@ -4,7 +4,7 @@ List of changes made to the EncryptedList database.
 
 - _2023-04-23_ - Changes made:
 
-  - Add/Move 3 new products to the Main list:
+  - Add/Move 4 new products to the Main list:
 
     - **AFFiNE**
     - **Google Messages**
@@ -17,7 +17,7 @@ List of changes made to the EncryptedList database.
     - **prvt**
     - **Space** (https://space.storage)
 
-  - Remove 2 products entirely from the database:
+  - Remove 5 products entirely from the database:
 
     - **FortKnoxster**
     - **Memex**
