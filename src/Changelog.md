@@ -2,9 +2,32 @@
 
 List of changes made to the EncryptedList database.
 
-- 2022-12-13\_ - Changes made:
+- _2023-04-23_ - Changes made:
 
-  - Add xxx products to the Main list:
+  - Add/Move 3 new products to the Main list:
+
+    - **AFFiNE**
+    - **Google Messages**
+    - **Quiet**
+    - **SiYuan**
+
+  - Move 3 products to the ExcludedList:
+
+    - **DECS**
+    - **prvt**
+    - **Space** (https://space.storage)
+
+  - Remove 2 products entirely from the database:
+
+    - **FortKnoxster**
+    - **Memex**
+    - **Radicle**
+    - **Spike**
+    - **Twake**
+
+- _2022-12-13_ - Changes made:
+
+  - Add 10 products to the Main list:
 
     - **AXchat**
     - **AXconnect**
