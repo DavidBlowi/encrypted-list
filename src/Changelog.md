@@ -4,6 +4,12 @@ List of changes made to the EncryptedList database.
 
 - _2023-04-23_ - Changes made:
 
+  - Add 1 new product to the Main list:
+
+    - **Bitwarden Secrets Manager**
+
+- _2023-04-23_ - Changes made:
+
   - Add/Move 4 new products to the Main list:
 
     - **AFFiNE**
