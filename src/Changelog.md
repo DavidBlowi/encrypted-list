@@ -2,10 +2,16 @@
 
 List of changes made to the EncryptedList database.
 
+- _2023-07-22_ - Changes made:
+
+  - Add 1 new product to the Main list:
+    - **Proton Pass**
+  - Move 1 product to the Main list:
+    - **Anytype**
+
 - _2023-04-23_ - Changes made:
 
   - Add 1 new product to the Main list:
-
     - **Bitwarden Secrets Manager**
 
 - _2023-04-23_ - Changes made:
@@ -24,7 +30,6 @@ List of changes made to the EncryptedList database.
     - **Space** (https://space.storage)
 
   - Remove 5 products entirely from the database:
-
     - **FortKnoxster**
     - **Memex**
     - **Radicle**
@@ -69,13 +74,11 @@ List of changes made to the EncryptedList database.
     - **Beepo**
 
   - Add 1 product to the ExcludedList:
-
     - **Encrypt.to**
 
 - _2022-10-08_ - Changes made:
 
   - Update the logos of 12 products:
-
     - **Cove Identity**
     - **EasyJoin**
     - **ente**
@@ -92,7 +95,6 @@ List of changes made to the EncryptedList database.
 - _2022-10-07_ - Change made:
 
   - Added 1 product from the main list:
-
     - **SendBig**
 
 - _2022-09-14_ - List of changes made:
